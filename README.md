@@ -32,7 +32,7 @@ Accidents mostly occur in Urban area which sum up to 61.95% and rural taking 38.
 It is also seen that Accidents or casualties happens mostly during Daylight (73.84%) and Night/dark (26.16%).
 
 
-The authorities may also focus mostly on how to improve Single Carriageway Road Type since it is the hotspot of casualties or accidents thaing the numbers upto 145K. 
+The authorities may also focus mostly on how to improve Single Carriageway Road Type since it is the hotspot of casualties or accidents taking the numbers upto 145K. 
 
 In conclusion, we can see that the accidents is getting reduced in 2022 comparing to 2021. However, in addition, November tends to be the most occured accidents months in bth the years. 
 
