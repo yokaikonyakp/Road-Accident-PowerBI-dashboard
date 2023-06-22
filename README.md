@@ -34,7 +34,7 @@ It is also seen that Accidents or casualties happens mostly during Daylight (73.
 
 The authorities may also focus mostly on how to improve Single Carriageway Road Type since it is the hotspot of casualties or accidents taking the numbers upto 145K. 
 
-In conclusion, we can see that the accidents is getting reduced in 2022 comparing to 2021. However, in addition, November tends to be the most occured accidents months in bth the years. 
+In conclusion, we can see that the accidents is getting reduced in 2022 comparing to 2021. However, in addition, November tends to be the most occured accidents months in both years. 
 
 
 
